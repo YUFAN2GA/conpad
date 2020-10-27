@@ -20,6 +20,7 @@ For those not familiar with ScalaJs:
 - ScalaJs--->Slinky
 
 To try:
-https://yufan2ga.github.io/conpad
+
+[conpad](https://yufan2ga.github.io/conpad)
 
 
